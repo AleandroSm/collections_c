@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/EstructuraDeDatos/cmake-build-debug/CMakeFiles/EstructuraDeDatos.dir
+C:/Users/HP/CLionProjects/EstructuraDeDatos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/EstructuraDeDatos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

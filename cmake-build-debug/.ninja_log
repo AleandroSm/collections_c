@@ -1,0 +1,14 @@
+# ninja log v5
+1	310	7028135668205920	CMakeFiles/EstructuraDeDatos.dir/main.c.obj	4984916916a897ed
+3	88	7028136500634657	CMakeFiles/EstructuraDeDatos.dir/linkedList/test.c.obj	b698317466577e82
+5	269	7029922272406845	CMakeFiles/EstructuraDeDatos.dir/binarySearchTree/bst.c.obj	a6e98073652d4cb4
+3	110	7028178388312842	CMakeFiles/EstructuraDeDatos.dir/linkedList/LinkedList.c.obj	e38326bd920d8511
+275	579	7029922275406336	EstructuraDeDatos.exe	fdcf1446ace3157
+3	103	7028713078125459	CMakeFiles/EstructuraDeDatos.dir/stack/Stack.c.obj	7c850aaa0fe3f993
+3	110	7028936586142747	CMakeFiles/EstructuraDeDatos.dir/queue/Queue.c.obj	8add65f14f39d4c7
+1	611	7030327434419349	CMakeFiles/EstructuraDeDatos.dir/linkedList/LinkedList.c.obj	e38326bd920d8511
+613	1243	7030327440698166	EstructuraDeDatos.exe	ad3ebce6343ff17e
+3	125	7030328246914050	CMakeFiles/EstructuraDeDatos.dir/linkedList/LinkedList.c.obj	e38326bd920d8511
+126	287	7030328248460707	EstructuraDeDatos.exe	ad3ebce6343ff17e
+4	130	7030329024841592	CMakeFiles/EstructuraDeDatos.dir/linkedList/LinkedList.c.obj	e38326bd920d8511
+131	314	7030329026656924	EstructuraDeDatos.exe	ad3ebce6343ff17e
